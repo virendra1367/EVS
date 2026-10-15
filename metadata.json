@@ -1,0 +1,8 @@
+{
+  "name": "ChargeGo",
+  "description": "ChargeGo – Find EV & CNG Charging Stations, Check Live Slot Availability, and Reserve Time Slots for Smarter, Greener Travel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
